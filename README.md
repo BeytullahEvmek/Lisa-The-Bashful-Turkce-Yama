@@ -1,4 +1,5 @@
 # Lisa-The-Bashful-Turkce-Ceviri
+![3539771-vy33d4pc-v4](https://github.com/BeytullahEvmek/Lisa-The-Bashful-Turkce-Ceviri/assets/130393344/e43d0233-c406-4083-98e8-3c6ee16ef171)
 
 Hepimiz Lisa the Painful Flastan sonraki zamani anlattığını biliriz.
 Peki Flaş gerçekleştiğinde ne oldu...?
