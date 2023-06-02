@@ -1,5 +1,8 @@
 # Lisa-The-Bashful-Turkce-Ceviri
 
+Hepimiz Lisa the Painful Flastan sonraki zamani anlattığını biliriz.
+Peki Flaş gerçekleştiğinde ne oldu...?
+
 # Nasıl yüklenir?
 YAMAYI INDIRME ![240744515-a778f722-aaef-45cd-b234-3c6373d81e66](https://github.com/BeytullahEvmek/Lisa-The-Bashful-Turkce-Ceviri/assets/130393344/28d2f02f-1203-4baf-8431-9fd206bd420b)
 ![240744518-ceecd917-846a-42ee-af08-690508e4f8c2](https://github.com/BeytullahEvmek/Lisa-The-Bashful-Turkce-Ceviri/assets/130393344/90a91608-d2c4-4b59-bb40-a22e8018ccb2)
