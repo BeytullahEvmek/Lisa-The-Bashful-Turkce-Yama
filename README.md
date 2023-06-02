@@ -14,8 +14,6 @@ YAMAYI INDIRME ![240744515-a778f722-aaef-45cd-b234-3c6373d81e66](https://github.
 
 3)oyunu zip dosyadan çıkarın
 
-(oyun muhtemelen burada olacak sotws-infinity-unfolds.zip\sotws-infinity-unfolds\sotws-infinity-unfolds)
-
 4)Içindeki dosyaları oyunun içine atın
 
 5)Çıkan uyarıda çakışan dosyaların hepsini değiştirin
