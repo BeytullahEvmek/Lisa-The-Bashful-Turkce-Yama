@@ -39,6 +39,7 @@ Oyunu kapatıp açın
 # Hak sahipleri
 
 LISA: The Painful Dingaling trafından yapılmıştır.https://store.steampowered.com/app/335670/LISA_The_Painful/
+
 LISA: The bashful  DoYouSellVHS trafından yapılmıştır.https://gamejolt.com/games/Lisathebashful/430290
 
 Oyunlar orijinal yapımcılarına aittir
